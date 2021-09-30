@@ -1,0 +1,15 @@
+body{
+    color: chartreuse;
+}
+
+label{
+    color: cyan;
+    border-top: darkgray;
+}
+
+button{
+    color: red;
+    border: dashed;
+    margin: 50px;
+
+}
